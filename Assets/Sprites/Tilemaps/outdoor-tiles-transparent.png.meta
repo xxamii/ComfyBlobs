@@ -1,0 +1,6001 @@
+fileFormatVersion: 2
+guid: aa75d0bd7051e6f458edbae4805bd75c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1872688633480043613
+    second: outdoor-tiles-transparent_0
+  - first:
+      213: -2488592595361307545
+    second: outdoor-tiles-transparent_1
+  - first:
+      213: 3717403485717457592
+    second: outdoor-tiles-transparent_2
+  - first:
+      213: -898108215033394419
+    second: outdoor-tiles-transparent_3
+  - first:
+      213: 7657089749974578787
+    second: outdoor-tiles-transparent_4
+  - first:
+      213: -163848654447450948
+    second: outdoor-tiles-transparent_5
+  - first:
+      213: 191594841858700796
+    second: outdoor-tiles-transparent_6
+  - first:
+      213: 8792079903274747976
+    second: outdoor-tiles-transparent_7
+  - first:
+      213: 2026511703754332314
+    second: outdoor-tiles-transparent_8
+  - first:
+      213: 3648677285169545420
+    second: outdoor-tiles-transparent_9
+  - first:
+      213: 6984125558503047642
+    second: outdoor-tiles-transparent_10
+  - first:
+      213: -1141098410991611208
+    second: outdoor-tiles-transparent_11
+  - first:
+      213: 7398507959768444805
+    second: outdoor-tiles-transparent_12
+  - first:
+      213: 7510585797027637577
+    second: outdoor-tiles-transparent_13
+  - first:
+      213: 4759896435541433608
+    second: outdoor-tiles-transparent_14
+  - first:
+      213: -7505295552633964635
+    second: outdoor-tiles-transparent_15
+  - first:
+      213: -5255901994455688639
+    second: outdoor-tiles-transparent_16
+  - first:
+      213: 3589721790976493298
+    second: outdoor-tiles-transparent_17
+  - first:
+      213: 1635578458696446143
+    second: outdoor-tiles-transparent_18
+  - first:
+      213: 8122651764133633142
+    second: outdoor-tiles-transparent_19
+  - first:
+      213: 4556723807877048429
+    second: outdoor-tiles-transparent_20
+  - first:
+      213: -8859226070381024453
+    second: outdoor-tiles-transparent_21
+  - first:
+      213: -6558561900356776794
+    second: outdoor-tiles-transparent_22
+  - first:
+      213: -5107282965990931643
+    second: outdoor-tiles-transparent_23
+  - first:
+      213: -4493737483562139134
+    second: outdoor-tiles-transparent_24
+  - first:
+      213: -6698596999845741158
+    second: outdoor-tiles-transparent_25
+  - first:
+      213: 2123574882093346903
+    second: outdoor-tiles-transparent_26
+  - first:
+      213: 1503889355362295453
+    second: outdoor-tiles-transparent_27
+  - first:
+      213: -6880850490520842210
+    second: outdoor-tiles-transparent_28
+  - first:
+      213: 8827772975746587721
+    second: outdoor-tiles-transparent_29
+  - first:
+      213: -2973226707343979481
+    second: outdoor-tiles-transparent_30
+  - first:
+      213: 4609169564903475294
+    second: outdoor-tiles-transparent_31
+  - first:
+      213: -7000906183069915242
+    second: outdoor-tiles-transparent_32
+  - first:
+      213: 2815241738067820368
+    second: outdoor-tiles-transparent_33
+  - first:
+      213: -3024089278662986536
+    second: outdoor-tiles-transparent_34
+  - first:
+      213: 485057752043066634
+    second: outdoor-tiles-transparent_35
+  - first:
+      213: -9149386496995856425
+    second: outdoor-tiles-transparent_36
+  - first:
+      213: 7764690764918431440
+    second: outdoor-tiles-transparent_37
+  - first:
+      213: 8168907152704254782
+    second: outdoor-tiles-transparent_38
+  - first:
+      213: -5968531884866912115
+    second: outdoor-tiles-transparent_39
+  - first:
+      213: 728488438948498731
+    second: outdoor-tiles-transparent_40
+  - first:
+      213: -4462143793265367985
+    second: outdoor-tiles-transparent_41
+  - first:
+      213: -2916548737018768169
+    second: outdoor-tiles-transparent_42
+  - first:
+      213: -6888294353828942536
+    second: outdoor-tiles-transparent_43
+  - first:
+      213: -8035353010488100581
+    second: outdoor-tiles-transparent_44
+  - first:
+      213: -3601477549448546535
+    second: outdoor-tiles-transparent_45
+  - first:
+      213: -7103181987906238311
+    second: outdoor-tiles-transparent_46
+  - first:
+      213: -4681885894849861835
+    second: outdoor-tiles-transparent_47
+  - first:
+      213: -3755708704753433846
+    second: outdoor-tiles-transparent_48
+  - first:
+      213: 1612557476790212669
+    second: outdoor-tiles-transparent_49
+  - first:
+      213: -6746749946023501615
+    second: outdoor-tiles-transparent_50
+  - first:
+      213: -2725917477248305686
+    second: outdoor-tiles-transparent_51
+  - first:
+      213: -8061671755533628264
+    second: outdoor-tiles-transparent_52
+  - first:
+      213: -5213647696643247032
+    second: outdoor-tiles-transparent_53
+  - first:
+      213: -11408655881620310
+    second: outdoor-tiles-transparent_54
+  - first:
+      213: -2699967439106146932
+    second: outdoor-tiles-transparent_55
+  - first:
+      213: -5501734883630963068
+    second: outdoor-tiles-transparent_56
+  - first:
+      213: -1360689338085031203
+    second: outdoor-tiles-transparent_57
+  - first:
+      213: 2554958178153460915
+    second: outdoor-tiles-transparent_58
+  - first:
+      213: 7827601121105764288
+    second: outdoor-tiles-transparent_59
+  - first:
+      213: 6023948279477235027
+    second: outdoor-tiles-transparent_60
+  - first:
+      213: -6998841788248249553
+    second: outdoor-tiles-transparent_61
+  - first:
+      213: 5739910963220664470
+    second: outdoor-tiles-transparent_62
+  - first:
+      213: -8954948073333023602
+    second: outdoor-tiles-transparent_63
+  - first:
+      213: 4580543483266282414
+    second: outdoor-tiles-transparent_64
+  - first:
+      213: -6698369691078844664
+    second: outdoor-tiles-transparent_65
+  - first:
+      213: -551600075006006696
+    second: outdoor-tiles-transparent_66
+  - first:
+      213: 2265360393884303930
+    second: outdoor-tiles-transparent_67
+  - first:
+      213: 7658077797975084683
+    second: outdoor-tiles-transparent_68
+  - first:
+      213: 2731701886570097428
+    second: outdoor-tiles-transparent_69
+  - first:
+      213: -4651100495756891502
+    second: outdoor-tiles-transparent_70
+  - first:
+      213: 739242344403146146
+    second: outdoor-tiles-transparent_71
+  - first:
+      213: 2978021066806342591
+    second: outdoor-tiles-transparent_72
+  - first:
+      213: 7721324033839746943
+    second: outdoor-tiles-transparent_73
+  - first:
+      213: 7405937782409828475
+    second: outdoor-tiles-transparent_74
+  - first:
+      213: 8335456796004741304
+    second: outdoor-tiles-transparent_75
+  - first:
+      213: -3605740843856430241
+    second: outdoor-tiles-transparent_76
+  - first:
+      213: 8592402961558732016
+    second: outdoor-tiles-transparent_77
+  - first:
+      213: -898023782250965950
+    second: outdoor-tiles-transparent_78
+  - first:
+      213: -5957818185020863092
+    second: outdoor-tiles-transparent_79
+  - first:
+      213: 8705778176029525392
+    second: outdoor-tiles-transparent_80
+  - first:
+      213: 4550690665473500054
+    second: outdoor-tiles-transparent_81
+  - first:
+      213: 8307390679605791822
+    second: outdoor-tiles-transparent_82
+  - first:
+      213: 6492431377250392839
+    second: outdoor-tiles-transparent_83
+  - first:
+      213: -4608893352684836402
+    second: outdoor-tiles-transparent_84
+  - first:
+      213: 6373913019612459272
+    second: outdoor-tiles-transparent_85
+  - first:
+      213: -2145470005001459208
+    second: outdoor-tiles-transparent_86
+  - first:
+      213: 477330371440771005
+    second: outdoor-tiles-transparent_87
+  - first:
+      213: -6102257523225423726
+    second: outdoor-tiles-transparent_88
+  - first:
+      213: 3536103613903104366
+    second: outdoor-tiles-transparent_89
+  - first:
+      213: 3688659796283392598
+    second: outdoor-tiles-transparent_90
+  - first:
+      213: -597822309693664601
+    second: outdoor-tiles-transparent_91
+  - first:
+      213: 3651901540945681587
+    second: outdoor-tiles-transparent_92
+  - first:
+      213: -1721510302707616909
+    second: outdoor-tiles-transparent_93
+  - first:
+      213: -4846058379226708912
+    second: outdoor-tiles-transparent_94
+  - first:
+      213: 2674261478491655090
+    second: outdoor-tiles-transparent_95
+  - first:
+      213: -6379431354884697519
+    second: outdoor-tiles-transparent_96
+  - first:
+      213: 3039444972712184167
+    second: outdoor-tiles-transparent_97
+  - first:
+      213: -228762398466884624
+    second: outdoor-tiles-transparent_98
+  - first:
+      213: 4171324258257910384
+    second: outdoor-tiles-transparent_99
+  - first:
+      213: -5356438217220227623
+    second: outdoor-tiles-transparent_100
+  - first:
+      213: 3076364510835349018
+    second: outdoor-tiles-transparent_101
+  - first:
+      213: -5479266255864939145
+    second: outdoor-tiles-transparent_102
+  - first:
+      213: 1896781965659896678
+    second: outdoor-tiles-transparent_103
+  - first:
+      213: -8785061572198112997
+    second: outdoor-tiles-transparent_104
+  - first:
+      213: -930816224476996017
+    second: outdoor-tiles-transparent_105
+  - first:
+      213: 7037149167264737247
+    second: outdoor-tiles-transparent_106
+  - first:
+      213: 3790632545787616413
+    second: outdoor-tiles-transparent_107
+  - first:
+      213: 4890881387198336339
+    second: outdoor-tiles-transparent_108
+  - first:
+      213: 8409490858091052413
+    second: outdoor-tiles-transparent_109
+  - first:
+      213: 1922728332414707144
+    second: outdoor-tiles-transparent_110
+  - first:
+      213: 1370150411678862195
+    second: outdoor-tiles-transparent_111
+  - first:
+      213: 5358599147257675654
+    second: outdoor-tiles-transparent_112
+  - first:
+      213: 290344954310895578
+    second: outdoor-tiles-transparent_113
+  - first:
+      213: 3889995084619596464
+    second: outdoor-tiles-transparent_114
+  - first:
+      213: -1261206824877173542
+    second: outdoor-tiles-transparent_115
+  - first:
+      213: -7198633616954219962
+    second: outdoor-tiles-transparent_116
+  - first:
+      213: 5426617605304636681
+    second: outdoor-tiles-transparent_117
+  - first:
+      213: 4078911107501322039
+    second: outdoor-tiles-transparent_118
+  - first:
+      213: 8528931499156043687
+    second: outdoor-tiles-transparent_119
+  - first:
+      213: -6756601130761196293
+    second: outdoor-tiles-transparent_120
+  - first:
+      213: 7298152093339626048
+    second: outdoor-tiles-transparent_121
+  - first:
+      213: 6620290564502540513
+    second: outdoor-tiles-transparent_122
+  - first:
+      213: -3801691891536536902
+    second: outdoor-tiles-transparent_123
+  - first:
+      213: -142518726900566684
+    second: outdoor-tiles-transparent_124
+  - first:
+      213: 8958646312190767638
+    second: outdoor-tiles-transparent_125
+  - first:
+      213: 948951549864046486
+    second: outdoor-tiles-transparent_126
+  - first:
+      213: 4673134183993671800
+    second: outdoor-tiles-transparent_127
+  - first:
+      213: 57792333554607391
+    second: outdoor-tiles-transparent_128
+  - first:
+      213: 5370171431031520647
+    second: outdoor-tiles-transparent_129
+  - first:
+      213: 7567880218463438241
+    second: outdoor-tiles-transparent_130
+  - first:
+      213: -5057341230530411218
+    second: outdoor-tiles-transparent_131
+  - first:
+      213: -8347391828386591105
+    second: outdoor-tiles-transparent_132
+  - first:
+      213: 7224743641586193634
+    second: outdoor-tiles-transparent_133
+  - first:
+      213: 5237399858667514153
+    second: outdoor-tiles-transparent_134
+  - first:
+      213: 2543687278743178126
+    second: outdoor-tiles-transparent_135
+  - first:
+      213: 1828150449488253228
+    second: outdoor-tiles-transparent_136
+  - first:
+      213: 4116074409012995353
+    second: outdoor-tiles-transparent_137
+  - first:
+      213: 4930621057618827959
+    second: outdoor-tiles-transparent_138
+  - first:
+      213: -1071662111538289623
+    second: outdoor-tiles-transparent_139
+  - first:
+      213: 8513101514394935104
+    second: outdoor-tiles-transparent_140
+  - first:
+      213: 2875196368984249691
+    second: outdoor-tiles-transparent_141
+  - first:
+      213: -7341197206190010058
+    second: outdoor-tiles-transparent_142
+  - first:
+      213: -4219934002762837467
+    second: outdoor-tiles-transparent_143
+  - first:
+      213: -8515821832068461319
+    second: outdoor-tiles-transparent_144
+  - first:
+      213: 2676681189118519632
+    second: outdoor-tiles-transparent_145
+  - first:
+      213: -5566780054852260372
+    second: outdoor-tiles-transparent_146
+  - first:
+      213: -5017836331926906035
+    second: outdoor-tiles-transparent_147
+  - first:
+      213: -7239809004701730121
+    second: outdoor-tiles-transparent_148
+  - first:
+      213: -1608228981439772098
+    second: outdoor-tiles-transparent_149
+  - first:
+      213: -1333191146396897217
+    second: outdoor-tiles-transparent_150
+  - first:
+      213: -1804838147551843559
+    second: outdoor-tiles-transparent_151
+  - first:
+      213: -3774567979605285743
+    second: outdoor-tiles-transparent_152
+  - first:
+      213: -4989583562081796866
+    second: outdoor-tiles-transparent_153
+  - first:
+      213: 1727961725050314027
+    second: outdoor-tiles-transparent_154
+  - first:
+      213: -4207328039859718481
+    second: outdoor-tiles-transparent_155
+  - first:
+      213: 4829213579705706079
+    second: outdoor-tiles-transparent_156
+  - first:
+      213: -4913805530881229135
+    second: outdoor-tiles-transparent_157
+  - first:
+      213: 159475191170413842
+    second: outdoor-tiles-transparent_158
+  - first:
+      213: 5191186244147628777
+    second: outdoor-tiles-transparent_159
+  - first:
+      213: -9050852214640022031
+    second: outdoor-tiles-transparent_160
+  - first:
+      213: 6782888789506359134
+    second: outdoor-tiles-transparent_161
+  - first:
+      213: 6518664556931424655
+    second: outdoor-tiles-transparent_162
+  - first:
+      213: -2922931917059330336
+    second: outdoor-tiles-transparent_163
+  - first:
+      213: 3267705286228441690
+    second: outdoor-tiles-transparent_164
+  - first:
+      213: -9156697087657546256
+    second: outdoor-tiles-transparent_165
+  - first:
+      213: 6614322557332497348
+    second: outdoor-tiles-transparent_166
+  - first:
+      213: 8100386817549152722
+    second: outdoor-tiles-transparent_167
+  - first:
+      213: -5199261839956938523
+    second: outdoor-tiles-transparent_168
+  - first:
+      213: -5252953137315335120
+    second: outdoor-tiles-transparent_169
+  - first:
+      213: 6737254909935796457
+    second: outdoor-tiles-transparent_170
+  - first:
+      213: 6316970491167115978
+    second: outdoor-tiles-transparent_171
+  - first:
+      213: 3249859628514733998
+    second: outdoor-tiles-transparent_172
+  - first:
+      213: -4115865668441049087
+    second: outdoor-tiles-transparent_173
+  - first:
+      213: 4065916422381547111
+    second: outdoor-tiles-transparent_174
+  - first:
+      213: -927827365651006153
+    second: outdoor-tiles-transparent_175
+  - first:
+      213: -5647790265884913937
+    second: outdoor-tiles-transparent_176
+  - first:
+      213: -1646796348282376905
+    second: outdoor-tiles-transparent_177
+  - first:
+      213: 5201521436092024801
+    second: outdoor-tiles-transparent_178
+  - first:
+      213: -5677674915010185926
+    second: outdoor-tiles-transparent_179
+  - first:
+      213: -5991433111160175094
+    second: outdoor-tiles-transparent_180
+  - first:
+      213: -862082043180653919
+    second: outdoor-tiles-transparent_181
+  - first:
+      213: -5268265740628971075
+    second: outdoor-tiles-transparent_182
+  - first:
+      213: 7597253774628921130
+    second: outdoor-tiles-transparent_183
+  - first:
+      213: -4722343379951656663
+    second: outdoor-tiles-transparent_184
+  - first:
+      213: -822439998230058271
+    second: outdoor-tiles-transparent_185
+  - first:
+      213: -9168997256311795451
+    second: outdoor-tiles-transparent_186
+  - first:
+      213: 668189937096450593
+    second: outdoor-tiles-transparent_187
+  - first:
+      213: -2581651072930411345
+    second: outdoor-tiles-transparent_188
+  - first:
+      213: 6308353202900431681
+    second: outdoor-tiles-transparent_189
+  - first:
+      213: -7266152578357955382
+    second: outdoor-tiles-transparent_190
+  - first:
+      213: -8721020488065412373
+    second: outdoor-tiles-transparent_191
+  - first:
+      213: 603829536074986604
+    second: outdoor-tiles-transparent_192
+  - first:
+      213: -2421031260884932544
+    second: outdoor-tiles-transparent_193
+  - first:
+      213: -3899776512823685987
+    second: outdoor-tiles-transparent_194
+  - first:
+      213: -3455426268862678050
+    second: outdoor-tiles-transparent_195
+  - first:
+      213: 2213835968139535782
+    second: outdoor-tiles-transparent_196
+  - first:
+      213: -150661757228906942
+    second: outdoor-tiles-transparent_197
+  - first:
+      213: -8207146825684539062
+    second: outdoor-tiles-transparent_198
+  - first:
+      213: 4345868966115947705
+    second: outdoor-tiles-transparent_199
+  - first:
+      213: -2295862331034205278
+    second: outdoor-tiles-transparent_200
+  - first:
+      213: -777123600831660370
+    second: outdoor-tiles-transparent_201
+  - first:
+      213: -3093593213429033570
+    second: outdoor-tiles-transparent_202
+  - first:
+      213: 5577554077834820467
+    second: outdoor-tiles-transparent_203
+  - first:
+      213: 3399888359366955400
+    second: outdoor-tiles-transparent_204
+  - first:
+      213: -8910531757311668852
+    second: outdoor-tiles-transparent_205
+  - first:
+      213: 2749622231654646863
+    second: outdoor-tiles-transparent_206
+  - first:
+      213: 8955529430127425882
+    second: outdoor-tiles-transparent_207
+  - first:
+      213: 475080284635959738
+    second: outdoor-tiles-transparent_208
+  - first:
+      213: 2030626724457869187
+    second: outdoor-tiles-transparent_209
+  - first:
+      213: -3996846111316006576
+    second: outdoor-tiles-transparent_210
+  - first:
+      213: -7317995125618805024
+    second: outdoor-tiles-transparent_211
+  - first:
+      213: 245045869046779745
+    second: outdoor-tiles-transparent_212
+  - first:
+      213: -2937980206310887136
+    second: outdoor-tiles-transparent_213
+  - first:
+      213: 8969536152580488174
+    second: outdoor-tiles-transparent_214
+  - first:
+      213: -8920607354958762828
+    second: outdoor-tiles-transparent_215
+  - first:
+      213: -3317455297895402583
+    second: outdoor-tiles-transparent_216
+  - first:
+      213: -5379891744471625959
+    second: outdoor-tiles-transparent_0
+  - first:
+      213: -2635944676325508758
+    second: outdoor-tiles-transparent_1
+  - first:
+      213: 4203831045566655645
+    second: outdoor-tiles-transparent_2
+  - first:
+      213: -5745946208550451210
+    second: outdoor-tiles-transparent_3
+  - first:
+      213: -4064500373091891773
+    second: outdoor-tiles-transparent_4
+  - first:
+      213: 585835987127435084
+    second: outdoor-tiles-transparent_5
+  - first:
+      213: 1928046264057260272
+    second: outdoor-tiles-transparent_6
+  - first:
+      213: 7870455993708650441
+    second: outdoor-tiles-transparent_7
+  - first:
+      213: -6144386163015159034
+    second: outdoor-tiles-transparent_8
+  - first:
+      213: 624706924609010939
+    second: outdoor-tiles-transparent_9
+  - first:
+      213: 6093997865925159154
+    second: outdoor-tiles-transparent_10
+  - first:
+      213: 6788792109360814877
+    second: outdoor-tiles-transparent_11
+  - first:
+      213: 2327593653952754320
+    second: outdoor-tiles-transparent_12
+  - first:
+      213: -5332827938198873074
+    second: outdoor-tiles-transparent_13
+  - first:
+      213: -6833090816609176292
+    second: outdoor-tiles-transparent_14
+  - first:
+      213: -2761917481764582618
+    second: outdoor-tiles-transparent_15
+  - first:
+      213: -6958974444710421791
+    second: outdoor-tiles-transparent_16
+  - first:
+      213: -902818079670616675
+    second: outdoor-tiles-transparent_17
+  - first:
+      213: 643809310226556438
+    second: outdoor-tiles-transparent_18
+  - first:
+      213: 7034394682383152823
+    second: outdoor-tiles-transparent_19
+  - first:
+      213: 1113716549250977991
+    second: outdoor-tiles-transparent_20
+  - first:
+      213: -2730131039475806708
+    second: outdoor-tiles-transparent_21
+  - first:
+      213: 727368000710250527
+    second: outdoor-tiles-transparent_22
+  - first:
+      213: -4733699229883866108
+    second: outdoor-tiles-transparent_23
+  - first:
+      213: -540619820902156207
+    second: outdoor-tiles-transparent_24
+  - first:
+      213: -9199973817956239733
+    second: outdoor-tiles-transparent_25
+  - first:
+      213: 1825954695760003090
+    second: outdoor-tiles-transparent_26
+  - first:
+      213: -3930003089940837489
+    second: outdoor-tiles-transparent_27
+  - first:
+      213: 4039987134333832904
+    second: outdoor-tiles-transparent_28
+  - first:
+      213: 8853490238425542294
+    second: outdoor-tiles-transparent_29
+  - first:
+      213: -5400858947703928239
+    second: outdoor-tiles-transparent_30
+  - first:
+      213: 183535201844441153
+    second: outdoor-tiles-transparent_31
+  - first:
+      213: 6783894901673793785
+    second: outdoor-tiles-transparent_32
+  - first:
+      213: -383439578796019041
+    second: outdoor-tiles-transparent_33
+  - first:
+      213: -3932561490272041687
+    second: outdoor-tiles-transparent_34
+  - first:
+      213: -4300829544341906129
+    second: outdoor-tiles-transparent_35
+  - first:
+      213: 6987484118659619018
+    second: outdoor-tiles-transparent_36
+  - first:
+      213: -883022155087208191
+    second: outdoor-tiles-transparent_37
+  - first:
+      213: 6520637554728925689
+    second: outdoor-tiles-transparent_38
+  - first:
+      213: -6602852795889094753
+    second: outdoor-tiles-transparent_39
+  - first:
+      213: -6763281095901605065
+    second: outdoor-tiles-transparent_40
+  - first:
+      213: 4751823449015688126
+    second: outdoor-tiles-transparent_41
+  - first:
+      213: -3396419516071118817
+    second: outdoor-tiles-transparent_42
+  - first:
+      213: -9030179655501032623
+    second: outdoor-tiles-transparent_43
+  - first:
+      213: -5577763249963046032
+    second: outdoor-tiles-transparent_44
+  - first:
+      213: 5045028200337581604
+    second: outdoor-tiles-transparent_45
+  - first:
+      213: 2743963510174977708
+    second: outdoor-tiles-transparent_46
+  - first:
+      213: 5680580038002736719
+    second: outdoor-tiles-transparent_47
+  - first:
+      213: -707662740177188435
+    second: outdoor-tiles-transparent_48
+  - first:
+      213: 1287045865459152984
+    second: outdoor-tiles-transparent_49
+  - first:
+      213: -8778090527533437927
+    second: outdoor-tiles-transparent_50
+  - first:
+      213: -461972971549859169
+    second: outdoor-tiles-transparent_51
+  - first:
+      213: 3687263959620993381
+    second: outdoor-tiles-transparent_52
+  - first:
+      213: 5652493927292933445
+    second: outdoor-tiles-transparent_53
+  - first:
+      213: -6380048486647119933
+    second: outdoor-tiles-transparent_54
+  - first:
+      213: -4975919964630496420
+    second: outdoor-tiles-transparent_55
+  - first:
+      213: 6764396729788682064
+    second: outdoor-tiles-transparent_56
+  - first:
+      213: 3534496076178281666
+    second: outdoor-tiles-transparent_57
+  - first:
+      213: -696037874634477389
+    second: outdoor-tiles-transparent_58
+  - first:
+      213: 8776036193694356548
+    second: outdoor-tiles-transparent_59
+  - first:
+      213: 3927158263254253600
+    second: outdoor-tiles-transparent_60
+  - first:
+      213: -7780762418608270486
+    second: outdoor-tiles-transparent_61
+  - first:
+      213: -5461502521129927587
+    second: outdoor-tiles-transparent_62
+  - first:
+      213: -6389766842042109781
+    second: outdoor-tiles-transparent_63
+  - first:
+      213: -9066819546799682427
+    second: outdoor-tiles-transparent_64
+  - first:
+      213: 300363539157799330
+    second: outdoor-tiles-transparent_65
+  - first:
+      213: 5101299639520564051
+    second: outdoor-tiles-transparent_66
+  - first:
+      213: -7625057388605426553
+    second: outdoor-tiles-transparent_67
+  - first:
+      213: 7847716608794990377
+    second: outdoor-tiles-transparent_68
+  - first:
+      213: 1106408888119966972
+    second: outdoor-tiles-transparent_69
+  - first:
+      213: -3845180793014709266
+    second: outdoor-tiles-transparent_70
+  - first:
+      213: -4073470265591080389
+    second: outdoor-tiles-transparent_71
+  - first:
+      213: 7017991632941871734
+    second: outdoor-tiles-transparent_72
+  - first:
+      213: 3108388541976550796
+    second: outdoor-tiles-transparent_73
+  - first:
+      213: 5790401258893585532
+    second: outdoor-tiles-transparent_74
+  - first:
+      213: 3845952549270882338
+    second: outdoor-tiles-transparent_75
+  - first:
+      213: -3662633447171492724
+    second: outdoor-tiles-transparent_76
+  - first:
+      213: 8593417673278662217
+    second: outdoor-tiles-transparent_77
+  - first:
+      213: 4096727153372381117
+    second: outdoor-tiles-transparent_78
+  - first:
+      213: 6253386235260987327
+    second: outdoor-tiles-transparent_79
+  - first:
+      213: 3415792444368603802
+    second: outdoor-tiles-transparent_80
+  - first:
+      213: 9180475813911605239
+    second: outdoor-tiles-transparent_81
+  - first:
+      213: 1226053336832208761
+    second: outdoor-tiles-transparent_82
+  - first:
+      213: 3292220676317380321
+    second: outdoor-tiles-transparent_83
+  - first:
+      213: 1434606202891507371
+    second: outdoor-tiles-transparent_84
+  - first:
+      213: 1269649411980314851
+    second: outdoor-tiles-transparent_85
+  - first:
+      213: 7630357998441688368
+    second: outdoor-tiles-transparent_86
+  - first:
+      213: -4601817614215999591
+    second: outdoor-tiles-transparent_87
+  - first:
+      213: 340411814765089134
+    second: outdoor-tiles-transparent_88
+  - first:
+      213: -8000489294308648706
+    second: outdoor-tiles-transparent_89
+  - first:
+      213: 5037235093978342326
+    second: outdoor-tiles-transparent_90
+  - first:
+      213: 3897354802314744003
+    second: outdoor-tiles-transparent_91
+  - first:
+      213: 3307136099372520213
+    second: outdoor-tiles-transparent_92
+  - first:
+      213: 2844274437966327685
+    second: outdoor-tiles-transparent_93
+  - first:
+      213: 7015740727449579343
+    second: outdoor-tiles-transparent_94
+  - first:
+      213: 499043800212362912
+    second: outdoor-tiles-transparent_95
+  - first:
+      213: -3017499605316069931
+    second: outdoor-tiles-transparent_96
+  - first:
+      213: 2182698544219018400
+    second: outdoor-tiles-transparent_97
+  - first:
+      213: 7145245543145828531
+    second: outdoor-tiles-transparent_98
+  - first:
+      213: 3105046820152869518
+    second: outdoor-tiles-transparent_99
+  - first:
+      213: 886019481123298782
+    second: outdoor-tiles-transparent_100
+  - first:
+      213: 5106271741616179002
+    second: outdoor-tiles-transparent_101
+  - first:
+      213: -1521863682580696664
+    second: outdoor-tiles-transparent_102
+  - first:
+      213: 2002831618777237425
+    second: outdoor-tiles-transparent_103
+  - first:
+      213: 2492776519039169872
+    second: outdoor-tiles-transparent_104
+  - first:
+      213: 6419216502914318668
+    second: outdoor-tiles-transparent_105
+  - first:
+      213: -2793736614269767336
+    second: outdoor-tiles-transparent_106
+  - first:
+      213: -8509730576733526723
+    second: outdoor-tiles-transparent_107
+  - first:
+      213: 2993570091017290647
+    second: outdoor-tiles-transparent_108
+  - first:
+      213: 8612067075863002778
+    second: outdoor-tiles-transparent_109
+  - first:
+      213: -1613435857675816903
+    second: outdoor-tiles-transparent_110
+  - first:
+      213: 1343765923085880172
+    second: outdoor-tiles-transparent_111
+  - first:
+      213: 5912201867050509693
+    second: outdoor-tiles-transparent_112
+  - first:
+      213: -3180636310918613096
+    second: outdoor-tiles-transparent_113
+  - first:
+      213: 474886003527613685
+    second: outdoor-tiles-transparent_114
+  - first:
+      213: -5390915431172586604
+    second: outdoor-tiles-transparent_115
+  - first:
+      213: 1823621948513253149
+    second: outdoor-tiles-transparent_116
+  - first:
+      213: 6493123594537794970
+    second: outdoor-tiles-transparent_117
+  - first:
+      213: -1060775056530797567
+    second: outdoor-tiles-transparent_118
+  - first:
+      213: -7484365431810879826
+    second: outdoor-tiles-transparent_119
+  - first:
+      213: -4499565822812374498
+    second: outdoor-tiles-transparent_120
+  - first:
+      213: 4941101665567653485
+    second: outdoor-tiles-transparent_121
+  - first:
+      213: 7432758495846992602
+    second: outdoor-tiles-transparent_122
+  - first:
+      213: 6140741646495507437
+    second: outdoor-tiles-transparent_123
+  - first:
+      213: -3820647837491101878
+    second: outdoor-tiles-transparent_124
+  - first:
+      213: -359363259111420100
+    second: outdoor-tiles-transparent_125
+  - first:
+      213: -1945257281025841180
+    second: outdoor-tiles-transparent_126
+  - first:
+      213: -8510259639144605372
+    second: outdoor-tiles-transparent_127
+  - first:
+      213: -7322034457172713089
+    second: outdoor-tiles-transparent_128
+  - first:
+      213: 7951343444929893676
+    second: outdoor-tiles-transparent_129
+  - first:
+      213: 4498772492925864973
+    second: outdoor-tiles-transparent_130
+  - first:
+      213: -612936256703528686
+    second: outdoor-tiles-transparent_131
+  - first:
+      213: 3265259069718495280
+    second: outdoor-tiles-transparent_132
+  - first:
+      213: 7230249895812230110
+    second: outdoor-tiles-transparent_133
+  - first:
+      213: 7879444936831312387
+    second: outdoor-tiles-transparent_134
+  - first:
+      213: 4093993465768281714
+    second: outdoor-tiles-transparent_135
+  - first:
+      213: 5126877841534341027
+    second: outdoor-tiles-transparent_136
+  - first:
+      213: -6362399851052283290
+    second: outdoor-tiles-transparent_137
+  - first:
+      213: -2604749704677941326
+    second: outdoor-tiles-transparent_138
+  - first:
+      213: 7132850642796837845
+    second: outdoor-tiles-transparent_139
+  - first:
+      213: -2440934754457110944
+    second: outdoor-tiles-transparent_140
+  - first:
+      213: -577463435866563115
+    second: outdoor-tiles-transparent_141
+  - first:
+      213: -8858999543994986436
+    second: outdoor-tiles-transparent_142
+  - first:
+      213: -6553300099258298680
+    second: outdoor-tiles-transparent_143
+  - first:
+      213: -4027401085597378240
+    second: outdoor-tiles-transparent_144
+  - first:
+      213: -2752205415903674102
+    second: outdoor-tiles-transparent_145
+  - first:
+      213: -1577820617737313421
+    second: outdoor-tiles-transparent_146
+  - first:
+      213: -808721729361649871
+    second: outdoor-tiles-transparent_147
+  - first:
+      213: 4116132818761684617
+    second: outdoor-tiles-transparent_148
+  - first:
+      213: 8362057141325839358
+    second: outdoor-tiles-transparent_149
+  - first:
+      213: -8509714442226686081
+    second: outdoor-tiles-transparent_150
+  - first:
+      213: -2230406164189661477
+    second: outdoor-tiles-transparent_151
+  - first:
+      213: -6879171112224238007
+    second: outdoor-tiles-transparent_152
+  - first:
+      213: -8680242165020647288
+    second: outdoor-tiles-transparent_153
+  - first:
+      213: -7020406737720854931
+    second: outdoor-tiles-transparent_154
+  - first:
+      213: 2020126392594977068
+    second: outdoor-tiles-transparent_155
+  - first:
+      213: -7961022200920551531
+    second: outdoor-tiles-transparent_156
+  - first:
+      213: -4836702204856697000
+    second: outdoor-tiles-transparent_157
+  - first:
+      213: -8105237321802362271
+    second: outdoor-tiles-transparent_158
+  - first:
+      213: -5932060169882680124
+    second: outdoor-tiles-transparent_159
+  - first:
+      213: -766874687094575849
+    second: outdoor-tiles-transparent_160
+  - first:
+      213: -4612415880595595932
+    second: outdoor-tiles-transparent_161
+  - first:
+      213: 6704698922138176742
+    second: outdoor-tiles-transparent_162
+  - first:
+      213: 7330523450389482150
+    second: outdoor-tiles-transparent_163
+  - first:
+      213: 7963325118167051562
+    second: outdoor-tiles-transparent_164
+  - first:
+      213: -7433472199928381145
+    second: outdoor-tiles-transparent_165
+  - first:
+      213: -631528226963131721
+    second: outdoor-tiles-transparent_166
+  - first:
+      213: 2520136096806543817
+    second: outdoor-tiles-transparent_167
+  - first:
+      213: -8019059732579325600
+    second: outdoor-tiles-transparent_168
+  - first:
+      213: 7782562704827272588
+    second: outdoor-tiles-transparent_169
+  - first:
+      213: 515552158049153046
+    second: outdoor-tiles-transparent_170
+  - first:
+      213: 7818192628188795695
+    second: outdoor-tiles-transparent_171
+  - first:
+      213: 8809639702673580593
+    second: outdoor-tiles-transparent_172
+  - first:
+      213: -7294516531640288429
+    second: outdoor-tiles-transparent_173
+  - first:
+      213: -1790039933378398165
+    second: outdoor-tiles-transparent_174
+  - first:
+      213: -286043860559705256
+    second: outdoor-tiles-transparent_175
+  - first:
+      213: -7219237118316468672
+    second: outdoor-tiles-transparent_176
+  - first:
+      213: -8662365999370456814
+    second: outdoor-tiles-transparent_177
+  - first:
+      213: 6743179801604117315
+    second: outdoor-tiles-transparent_178
+  - first:
+      213: 6947128565698004075
+    second: outdoor-tiles-transparent_179
+  - first:
+      213: 7565957478014861759
+    second: outdoor-tiles-transparent_180
+  - first:
+      213: -1068715861551885638
+    second: outdoor-tiles-transparent_181
+  - first:
+      213: -4846770928209032138
+    second: outdoor-tiles-transparent_182
+  - first:
+      213: 4305966835407091018
+    second: outdoor-tiles-transparent_183
+  - first:
+      213: -1281984266311705889
+    second: outdoor-tiles-transparent_184
+  - first:
+      213: -8021484202656336732
+    second: outdoor-tiles-transparent_185
+  - first:
+      213: 1884211331894954271
+    second: outdoor-tiles-transparent_186
+  - first:
+      213: -5981329984082118329
+    second: outdoor-tiles-transparent_187
+  - first:
+      213: 6135553930461162931
+    second: outdoor-tiles-transparent_188
+  - first:
+      213: 1079693946966882596
+    second: outdoor-tiles-transparent_189
+  - first:
+      213: -3936592664244144102
+    second: outdoor-tiles-transparent_190
+  - first:
+      213: -1829616571599291960
+    second: outdoor-tiles-transparent_191
+  - first:
+      213: 6394217229754023004
+    second: outdoor-tiles-transparent_192
+  - first:
+      213: 169311527176371162
+    second: outdoor-tiles-transparent_193
+  - first:
+      213: -4828262534658279711
+    second: outdoor-tiles-transparent_194
+  - first:
+      213: 3884421404161625035
+    second: outdoor-tiles-transparent_195
+  - first:
+      213: -4606652825996604417
+    second: outdoor-tiles-transparent_196
+  - first:
+      213: 4073995809992607277
+    second: outdoor-tiles-transparent_197
+  - first:
+      213: 8226801328974753670
+    second: outdoor-tiles-transparent_198
+  - first:
+      213: 8046521120116864505
+    second: outdoor-tiles-transparent_199
+  - first:
+      213: -3274333457312694921
+    second: outdoor-tiles-transparent_200
+  - first:
+      213: -7668206043275935791
+    second: outdoor-tiles-transparent_201
+  - first:
+      213: -1014010203436115430
+    second: outdoor-tiles-transparent_202
+  - first:
+      213: -1980407590030473870
+    second: outdoor-tiles-transparent_203
+  - first:
+      213: -1154241071044289226
+    second: outdoor-tiles-transparent_204
+  - first:
+      213: 7285613160633559437
+    second: outdoor-tiles-transparent_205
+  - first:
+      213: -5879866764946400519
+    second: outdoor-tiles-transparent_206
+  - first:
+      213: -1365034592155462708
+    second: outdoor-tiles-transparent_207
+  - first:
+      213: 5619478206940141083
+    second: outdoor-tiles-transparent_208
+  - first:
+      213: 7441322492707193503
+    second: outdoor-tiles-transparent_209
+  - first:
+      213: -630893124397454583
+    second: outdoor-tiles-transparent_210
+  - first:
+      213: -7723062154744336649
+    second: outdoor-tiles-transparent_211
+  - first:
+      213: 6113903374646836031
+    second: outdoor-tiles-transparent_212
+  - first:
+      213: -2412192974032875754
+    second: outdoor-tiles-transparent_213
+  - first:
+      213: 554085293419844217
+    second: outdoor-tiles-transparent_214
+  - first:
+      213: 2645390533577178386
+    second: outdoor-tiles-transparent_215
+  - first:
+      213: -4868857083505265917
+    second: outdoor-tiles-transparent_216
+  - first:
+      213: -6877715598636860495
+    second: outdoor-tiles-transparent_217
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f46b856f8c655b0800000000000000
+      internalID: -5379891744471625959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a693900684e3b6bd0800000000000000
+      internalID: -2635944676325508758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c62c62012075a30800000000000000
+      internalID: 4203831045566655645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f709dcdd5c4240b0800000000000000
+      internalID: -5745946208550451210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c54a60027ef797c0800000000000000
+      internalID: -4064500373091891773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ffe55f9be412800800000000000000
+      internalID: 585835987127435084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8e6a7acdbc1ca10800000000000000
+      internalID: 1928046264057260272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf195dd60a793d60800000000000000
+      internalID: 7870455993708650441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603f7aec651cabaa0800000000000000
+      internalID: -6144386163015159034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfcfb0a53a76ba800800000000000000
+      internalID: 624706924609010939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8257c85ca329450800000000000000
+      internalID: 6093997865925159154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b1d647472a63e50800000000000000
+      internalID: 6788792109360814877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092be4d98164d4020800000000000000
+      internalID: 2327593653952754320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_13
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c9067ae3dfdf5b0800000000000000
+      internalID: -5332827938198873074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15b6060b1cfb21a0800000000000000
+      internalID: -6833090816609176292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_15
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b0b700fa2bba9d0800000000000000
+      internalID: -2761917481764582618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea930edc91cc6f90800000000000000
+      internalID: -6958974444710421791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9dbe686dbb8873f0800000000000000
+      internalID: -902818079670616675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616a42718254fe800800000000000000
+      internalID: 643809310226556438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6385d91b03f9160800000000000000
+      internalID: 7034394682383152823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c014920d47b47f00800000000000000
+      internalID: 1113716549250977991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ec6c1d840ac1ad0800000000000000
+      internalID: -2730131039475806708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_22
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f101257c751281a00800000000000000
+      internalID: 727368000710250527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_23
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4046b3171a58e4eb0800000000000000
+      internalID: -4733699229883866108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158779023255f78f0800000000000000
+      internalID: -540619820902156207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_25
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86f2dd5e80235080800000000000000
+      internalID: -9199973817956239733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_26
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2104bb81f18175910800000000000000
+      internalID: 1825954695760003090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_27
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b83e10303d579c0800000000000000
+      internalID: -3930003089940837489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cecd17d4eae01830800000000000000
+      internalID: 4039987134333832904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_29
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e2ebbc67aedda70800000000000000
+      internalID: 8853490238425542294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_30
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a0e1ce66b4c05b0800000000000000
+      internalID: -5400858947703928239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_31
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140b7bd2b4c0c8200800000000000000
+      internalID: 183535201844441153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f899df687c352e50800000000000000
+      internalID: 6783894901673793785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_33
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92b9011cbfbdaaf0800000000000000
+      internalID: -383439578796019041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_34
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92544f2092cbc69c0800000000000000
+      internalID: -3932561490272041687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_35
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ddef1f0526054c0800000000000000
+      internalID: -4300829544341906129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_36
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8d36ed8c788f060800000000000000
+      internalID: 6987484118659619018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_37
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1012a354700eeb3f0800000000000000
+      internalID: -883022155087208191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_38
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f970b6ee45fd7a50800000000000000
+      internalID: 6520637554728925689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_39
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9fe5d49d54fd54a0800000000000000
+      internalID: -6602852795889094753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7339baa3daff322a0800000000000000
+      internalID: -6763281095901605065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_41
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb93f9204ed1f140800000000000000
+      internalID: 4751823449015688126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f187064f17e7dd0d0800000000000000
+      internalID: -3396419516071118817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_43
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153d6ef727b5ea280800000000000000
+      internalID: -9030179655501032623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_44
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b69bc50edc792b0800000000000000
+      internalID: -5577763249963046032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_45
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42623f22b6a830640800000000000000
+      internalID: 5045028200337581604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae0d9c3644841620800000000000000
+      internalID: 2743963510174977708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_47
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ef353927975de40800000000000000
+      internalID: 5680580038002736719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_48
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da985f6bc70ed26f0800000000000000
+      internalID: -707662740177188435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_49
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858f35445618cd110800000000000000
+      internalID: 1287045865459152984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ce52c6c25fd2680800000000000000
+      internalID: -8778090527533437927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_51
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9260fea70eb699f0800000000000000
+      internalID: -461972971549859169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_52
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5614f4a090bcb2330800000000000000
+      internalID: 3687263959620993381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_53
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54519575741b17e40800000000000000
+      internalID: 5652493927292933445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_54
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf31af44b38577a0800000000000000
+      internalID: -6380048486647119933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_55
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5bcc6dd72bf1fab0800000000000000
+      internalID: -4975919964630496420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_56
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f4ed68cf6ffdd50800000000000000
+      internalID: 6764396729788682064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_57
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c45e98647d0d0130800000000000000
+      internalID: 3534496076178281666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_58
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0b134ad3d2756f0800000000000000
+      internalID: -696037874634477389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_59
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4449f15bb6ebac970800000000000000
+      internalID: 8776036193694356548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_60
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020820a22a1108630800000000000000
+      internalID: 3927158263254253600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_61
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a631525fdcd250490800000000000000
+      internalID: -7780762418608270486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_62
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c7620b468d434b0800000000000000
+      internalID: -5461502521129927587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_63
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0b28e59ecf257a0800000000000000
+      internalID: -6389766842042109781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ccf6609af2c2280800000000000000
+      internalID: -9066819546799682427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_65
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1daf62c0b1b2400800000000000000
+      internalID: 300363539157799330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_66
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353937a8ef47bc640800000000000000
+      internalID: 5101299639520564051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_67
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784b43054ba5e2690800000000000000
+      internalID: -7625057388605426553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_68
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927982d3da0b8ec60800000000000000
+      internalID: 7847716608794990377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_69
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfcb9b09501ca5f00800000000000000
+      internalID: 1106408888119966972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_70
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3143ff07c23aac0800000000000000
+      internalID: -3845180793014709266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_71
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ad35820602877c0800000000000000
+      internalID: -4073470265591080389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_72
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672f92e053ae46160800000000000000
+      internalID: 7017991632941871734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_73
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d1864f8e6332b20800000000000000
+      internalID: 3108388541976550796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_74
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ca35f1443ab5050800000000000000
+      internalID: 5790401258893585532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_75
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2288c4287719f5530800000000000000
+      internalID: 3845952549270882338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_76
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84f0e60946bb2dc0800000000000000
+      internalID: -3662633447171492724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_77
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946a65e08d3f14770800000000000000
+      internalID: 8593417673278662217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_78
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf357ef3af7ad830800000000000000
+      internalID: 4096727153372381117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_79
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb76c0c26ad78c650800000000000000
+      internalID: 6253386235260987327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_80
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9acd096125576f20800000000000000
+      internalID: 3415792444368603802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_81
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff244dcc1a976f70800000000000000
+      internalID: 9180475813911605239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97fe0919301d30110800000000000000
+      internalID: 1226053336832208761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_83
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eef71e134150bd20800000000000000
+      internalID: 3292220676317380321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_84
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba69beb9dbeb8e310800000000000000
+      internalID: 1434606202891507371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_85
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8ce5ec963be9110800000000000000
+      internalID: 1269649411980314851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_86
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d6d261c2a74e960800000000000000
+      internalID: 7630357998441688368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_87
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f0587e24f0320c0800000000000000
+      internalID: -4601817614215999591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_88
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e615b60fdb269b400800000000000000
+      internalID: 340411814765089134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_89
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8da6f006d88f090800000000000000
+      internalID: -8000489294308648706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_90
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3e5ba21aad7e540800000000000000
+      internalID: 5037235093978342326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_91
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c012ab2b8f261630800000000000000
+      internalID: 3897354802314744003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_92
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51358faa2ce45ed20800000000000000
+      internalID: 3307136099372520213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_93
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58fe4be1884e87720800000000000000
+      internalID: 2844274437966327685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_94
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f6fd7450bec5160800000000000000
+      internalID: 7015740727449579343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_95
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6d40731b5fce600800000000000000
+      internalID: 499043800212362912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_96
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5114ba810bf16d0800000000000000
+      internalID: -3017499605316069931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_97
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4dfe3f2c08a4e10800000000000000
+      internalID: 2182698544219018400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_98
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b07620e6f2092360800000000000000
+      internalID: 7145245543145828531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e820b26b1a7571b20800000000000000
+      internalID: 3105046820152869518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_100
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd1e641606cb4c00800000000000000
+      internalID: 886019481123298782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_101
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37c5a5481f1dd640800000000000000
+      internalID: 5106271741616179002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_102
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1b53b3b0141eae0800000000000000
+      internalID: -1521863682580696664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_103
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7432eeebc7bcb10800000000000000
+      internalID: 2002831618777237425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_104
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055b3c9690f189220800000000000000
+      internalID: 2492776519039169872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_105
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4188802663a51950800000000000000
+      internalID: 6419216502914318668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_106
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851b276e957aa39d0800000000000000
+      internalID: -2793736614269767336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_107
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35a48f702d57e980800000000000000
+      internalID: -8509730576733526723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_108
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793c15d132c4b8920800000000000000
+      internalID: 2993570091017290647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_109
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9eb6a67065348770800000000000000
+      internalID: 8612067075863002778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_110
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930fa53c2aceb99e0800000000000000
+      internalID: -1613435857675816903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_111
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b0fcaccf306a210800000000000000
+      internalID: 1343765923085880172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_112
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7562fd164c5c0250800000000000000
+      internalID: 5912201867050509693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_113
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897bcff702c1cd3d0800000000000000
+      internalID: -3180636310918613096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_114
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc711ddd42279600800000000000000
+      internalID: 474886003527613685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_115
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49349c64afe9f25b0800000000000000
+      internalID: -5390915431172586604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_116
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17fcbd008ece4910800000000000000
+      internalID: 1823621948513253149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_117
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9df127d1853c1a50800000000000000
+      internalID: 6493123594537794970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_118
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c03e0d4be5741f0800000000000000
+      internalID: -1060775056530797567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_119
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae03bb2b41322890800000000000000
+      internalID: -7484365431810879826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_120
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ab7cf49b45e81c0800000000000000
+      internalID: -4499565822812374498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_121
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e304729c1529440800000000000000
+      internalID: 4941101665567653485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_122
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada0a36b876762760800000000000000
+      internalID: 7432758495846992602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_123
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3efc01efb483550800000000000000
+      internalID: 6140741646495507437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_124
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f7a72d8055afac0800000000000000
+      internalID: -3820647837491101878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_125
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f46531509430bf0800000000000000
+      internalID: -359363259111420100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_126
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e766bf2fce0105e0800000000000000
+      internalID: -1945257281025841180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_127
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449117e82fb75e980800000000000000
+      internalID: -8510259639144605372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_128
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71ec0b7478e26a90800000000000000
+      internalID: -7322034457172713089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_129
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c255d223cb8d85e60800000000000000
+      internalID: 7951343444929893676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_130
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c052e2fb9de6e30800000000000000
+      internalID: 4498772492925864973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_131
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2118a35d8b96e77f0800000000000000
+      internalID: -612936256703528686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_132
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0308136e2d7805d20800000000000000
+      internalID: 3265259069718495280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_133
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb613509f1075460800000000000000
+      internalID: 7230249895812230110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_134
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302a4174c69695d60800000000000000
+      internalID: 7879444936831312387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_135
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27683efbd59c0d830800000000000000
+      internalID: 4093993465768281714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_136
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3afc977cb34562740800000000000000
+      internalID: 5126877841534341027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_137
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ac70f7b0734b7a0800000000000000
+      internalID: -6362399851052283290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_138
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf1ed3b1f11adbd0800000000000000
+      internalID: -2604749704677941326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_139
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db72df3ed9fcf260800000000000000
+      internalID: 7132850642796837845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_140
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066bda006ce002ed0800000000000000
+      internalID: -2440934754457110944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_141
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd956a80107cf7f0800000000000000
+      internalID: -577463435866563115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_142
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30d4da0ad28e0580800000000000000
+      internalID: -8858999543994986436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_143
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce4d25d7400e05a0800000000000000
+      internalID: -6553300099258298680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_144
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04912fcfc0ccb18c0800000000000000
+      internalID: -4027401085597378240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_145
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01c72c81c33ec9d0800000000000000
+      internalID: -2752205415903674102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_146
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373ea7002847a1ae0800000000000000
+      internalID: -1577820617737313421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_147
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f52473fd7d6c4f0800000000000000
+      internalID: -808721729361649871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_148
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9861e9e8df07f1930800000000000000
+      internalID: 4116132818761684617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_149
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efbbe3c7aaefb0470800000000000000
+      internalID: 8362057141325839358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_150
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77211b1dcb67e980800000000000000
+      internalID: -8509714442226686081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_151
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd632ae29610c01e0800000000000000
+      internalID: -2230406164189661477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_152
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946deb222564880a0800000000000000
+      internalID: -6879171112224238007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_153
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880a395adb5998780800000000000000
+      internalID: -8680242165020647288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_154
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66b36b8441829e90800000000000000
+      internalID: -7020406737720854931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_155
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21d300404ee80c10800000000000000
+      internalID: 2020126392594977068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_156
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59fc121dc74c48190800000000000000
+      internalID: -7961022200920551531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_157
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ffa2b78f490ecb0800000000000000
+      internalID: -4836702204856697000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_158
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1625bb56999648f80800000000000000
+      internalID: -8105237321802362271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_159
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c446e374b61dada0800000000000000
+      internalID: -5932060169882680124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_160
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d2d7009838b55f0800000000000000
+      internalID: -766874687094575849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_161
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d9ab8b1386dffb0800000000000000
+      internalID: -4612415880595595932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_162
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec8dfb8520eb0d50800000000000000
+      internalID: 6704698922138176742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_163
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aac2264d304bb560800000000000000
+      internalID: 7330523450389482150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_164
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2dea43e00a638e60800000000000000
+      internalID: 7963325118167051562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_165
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721078b1b6007d890800000000000000
+      internalID: -7433472199928381145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_166
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2fa3e6c6c5c37f0800000000000000
+      internalID: -631528226963131721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_167
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c12bc38d6259f220800000000000000
+      internalID: 2520136096806543817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_168
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06968f6f8a396b090800000000000000
+      internalID: -8019059732579325600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_169
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8dce67db87310c60800000000000000
+      internalID: 7782562704827272588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_170
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610b4bbc4fb972700800000000000000
+      internalID: 515552158049153046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_171
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2355c4d5cccf7c60800000000000000
+      internalID: 7818192628188795695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_172
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132690552a0224a70800000000000000
+      internalID: 8809639702673580593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_173
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35bbd5bccdba4ca90800000000000000
+      internalID: -7294516531640288429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_174
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2877352a208827e0800000000000000
+      internalID: -1790039933378398165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_175
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b4825df94c70cf0800000000000000
+      internalID: -286043860559705256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_176
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046ae6d071e10db90800000000000000
+      internalID: -7219237118316468672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_177
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2113a1dc40819c780800000000000000
+      internalID: -8662365999370456814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_178
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343d33b7d46949d50800000000000000
+      internalID: 6743179801604117315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_179
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64066f7f98296060800000000000000
+      internalID: 6947128565698004075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_180
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb149c67d3eaff860800000000000000
+      internalID: 7565957478014861759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_181
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2df5216982b21f0800000000000000
+      internalID: -1068715861551885638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_182
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c0964258fccbcb0800000000000000
+      internalID: -4846770928209032138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_183
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a457d07d50ed1cb30800000000000000
+      internalID: 4305966835407091018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_184
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdad9de1a1a753ee0800000000000000
+      internalID: -1281984266311705889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_185
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4f2490e96fda090800000000000000
+      internalID: -8021484202656336732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_186
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f194d5f2930162a10800000000000000
+      internalID: 1884211331894954271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_187
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7497466e11c0efca0800000000000000
+      internalID: -5981329984082118329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_188
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bda36dcacdd52550800000000000000
+      internalID: 6135553930461162931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_189
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429b91f9ce7dbfe00800000000000000
+      internalID: 1079693946966882596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_190
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18b15e24d96e59c0800000000000000
+      internalID: -3936592664244144102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_191
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9f7aefb65eb96e0800000000000000
+      internalID: -1829616571599291960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_192
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5cbb2441b2dcb850800000000000000
+      internalID: 6394217229754023004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_193
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adbf9b9dfe3895200800000000000000
+      internalID: 169311527176371162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_194
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6bd535ec09efcb0800000000000000
+      internalID: -4828262534658279711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_195
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb4af0cfac38e530800000000000000
+      internalID: 3884421404161625035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_196
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb4cee69a1e110c0800000000000000
+      internalID: -4606652825996604417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_197
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d260a0faa9db98830800000000000000
+      internalID: 4073995809992607277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_198
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f6043a8387b2270800000000000000
+      internalID: 8226801328974753670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_199
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f57e32935cfaaf60800000000000000
+      internalID: 8046521120116864505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_200
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d33b8911b3f82d0800000000000000
+      internalID: -3274333457312694921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_201
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dfb8064b3f059590800000000000000
+      internalID: -7668206043275935791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_202
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a9199a7138de1f0800000000000000
+      internalID: -1014010203436115430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_203
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2750fbd1acd2484e0800000000000000
+      internalID: -1980407590030473870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_204
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d1d3f7cdf4bffe0800000000000000
+      internalID: -1154241071044289226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_205
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89697a9192bb1560800000000000000
+      internalID: 7285613160633559437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_206
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa9eb48454866ea0800000000000000
+      internalID: -5879866764946400519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_207
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3147c454c6e0de0800000000000000
+      internalID: -1365034592155462708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_208
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1657bbe7a56cfd40800000000000000
+      internalID: 5619478206940141083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_209
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92cfec9163e44760800000000000000
+      internalID: 7441322492707193503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_210
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90bad05cb0e9e37f0800000000000000
+      internalID: -630893124397454583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_211
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe633883eb22d490800000000000000
+      internalID: -7723062154744336649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_212
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3bf2e4f9b2f8d450800000000000000
+      internalID: 6113903374646836031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_213
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61fc31d354b268ed0800000000000000
+      internalID: -2412192974032875754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_214
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972de8183a180b700800000000000000
+      internalID: 554085293419844217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_215
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d7c06aca056b420800000000000000
+      internalID: 2645390533577178386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_216
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303368367485e6cb0800000000000000
+      internalID: -4868857083505265917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outdoor-tiles-transparent_217
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb361d4a127d80a0800000000000000
+      internalID: -6877715598636860495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

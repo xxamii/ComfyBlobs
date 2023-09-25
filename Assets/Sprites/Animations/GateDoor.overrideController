@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: GateDoor
+  m_Controller: {fileID: 9100000, guid: 133e810bcd746a94987ef527beab6436, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: acf2c9a045180cb4797096e63f6450cc, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: dfd24c55d13b3744eb6eacdd81ad1761, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 3e3b4748a50f6c344a0f0c059f0ff97d, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f4118c2021d45f344abb3ea216405dbf, type: 2}
