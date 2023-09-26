@@ -1,6 +1,7 @@
 # ComfyBlobs
 
 A puzzle game about slimes, developed with a team for the GMTK Game Jam 2021. This is a relaxing game with comfy music about solving puzzles in a forest.
+I was responsible for most of the gameplay features.
 
 # How to Use It
 
@@ -13,3 +14,12 @@ A puzzle game about slimes, developed with a team for the GMTK Game Jam 2021. Th
 # What I Learned
 
 - How to better communicate and collaborate with a team, working on a project.
+
+# Other Members
+
+- Ruslan "Lina" Anikaev: <https://github.com/chimera74> <https://linahale.itch.io/>. Programmer.
+- Lyckstolp. Sound design.
+- Cristian "crisrock" Rocco. Music composition.
+- Kenney.nl. Art.
+- QuizmasterHanzo. Art.
+- Michele "Buch" Bucelli. Art.
