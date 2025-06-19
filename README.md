@@ -1,6 +1,6 @@
 # ComfyBlobs
 
-A puzzle game about slimes, developed with a team for the GMTK Game Jam 2021. This is a relaxing game with comfy music about solving puzzles in a forest.
+A puzzle game with slimes developed in a team for the GMTK Game Jam 2021. This is a relaxing game with comfy music about solving puzzles in a forest.
 I was responsible for most of the gameplay features.
 
 # How to Use It
@@ -13,7 +13,9 @@ I was responsible for most of the gameplay features.
 
 # What I Learned
 
-- How to better communicate and collaborate with a team, working on a project.
+- How to work in a team and collaborate with team members with different backgrounds (programming, art, music, etc.).
+- Working under time pressure.
+- Making a complete game in Unity and publishing it.
 
 # Other Members
 
